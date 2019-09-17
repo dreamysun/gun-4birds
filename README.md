@@ -2,4 +2,4 @@
 
 ## 🐦🐦🐦🐦⚫️
 A Brain Training Web Application
-https://lucid-nightingale-ac39ff.netlify.com
+gunand4birds.netlify.com
