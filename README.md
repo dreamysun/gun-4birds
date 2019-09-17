@@ -2,4 +2,4 @@
 
 ## 🐦🐦🐦🐦⚫️
 A Brain Training Web Application
-gunand4birds.netlify.com
+https://gunand4birds.netlify.com/
